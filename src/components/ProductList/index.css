@@ -1,0 +1,11 @@
+/* ProductList.css */
+
+.product-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  background-color: black;
+}
+
+/* You can add more CSS styles as needed */
